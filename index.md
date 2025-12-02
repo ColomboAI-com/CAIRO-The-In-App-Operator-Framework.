@@ -1,6 +1,5 @@
 
 ---
-title: CAIRO – The In-App Operator Framework
 layout: default
 ---
 
